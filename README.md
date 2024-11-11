@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mycota0101
 - 👀 I’m interested in AI, Cybersecurity, Web Development, and DevOps
 - 🌱 I’m currently learning AI and Python
-- Feel free to reach out if you share the same interests or want to collaborate! 🚀
+- 🚀 Feel free to reach out if you share the same interests or want to collaborate! 🚀
 
 
 <!---
