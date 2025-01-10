@@ -8,8 +8,6 @@
 ### 🚀 GitHub Stats
 ![Mycota's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mycota0101&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mycota0101&layout=compact&theme=radical)  
-### 🚀 GitHub Stats (2024)
-![GitHub Stats 2024](https://your-image-link.com)
 
 ---
 
