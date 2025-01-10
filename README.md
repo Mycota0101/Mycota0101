@@ -24,8 +24,8 @@
 ---
 
 ### 🌟 Featured Projects
-- [Project 1](https://github.com/Mycota0101/project1) - Deskripsi singkat proyek 1.  
-- [Project 2](https://github.com/Mycota0101/project2) - Deskripsi singkat proyek 2.  
+- [jual-beli-properti]([https://github.com/Mycota0101/project1](https://github.com/Mycota0101/Mycota_Property_FrontEnd.git)) -.  
+- [sistem gaji]([https://github.com/Mycota0101/project2](https://github.com/Mycota0101/Sistem-Gaji-PT.Sejahtera-Makmur-Abadi.git)) -.  
 
 ---
 
