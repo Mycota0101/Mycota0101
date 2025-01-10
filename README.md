@@ -24,13 +24,13 @@
 ---
 
 ### 🌟 Featured Projects
-- [jual-beli-properti]([https://github.com/Mycota0101/project1](https://github.com/Mycota0101/Mycota_Property_FrontEnd.git)) -.  
-- [sistem gaji]([https://github.com/Mycota0101/project2](https://github.com/Mycota0101/Sistem-Gaji-PT.Sejahtera-Makmur-Abadi.git)) -.  
+- [Sistem Gaji](https://github.com/Mycota0101/Sistem-Gaji-PT.Sejahtera-Makmur-Abadi.git)  
+- [Property](https://github.com/Mycota0101/Mycota_Property_FrontEnd.git)  
 
 ---
 
 ### ✨ Quote of the Day
-*"Edges create pathways, vertices tell the story."*  
+*"Yang sudah boleh pulang."*  
 
 ---
 
